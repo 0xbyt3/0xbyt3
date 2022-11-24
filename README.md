@@ -5,7 +5,7 @@
 🔞 18 years old
 👀  **What things do I like?**
 
-				1. I like develop automation tools    
+				1. I like develope automation tools    
 				2. I like bugbounty 
 				3. I like network 
 				4. I like RedTeam :)
@@ -29,6 +29,7 @@
 	 - php
 	 - javascript
 	 - bash
+	 - C#
 
 ## Contact me 
 
